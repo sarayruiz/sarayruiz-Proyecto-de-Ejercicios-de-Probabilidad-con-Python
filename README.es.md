@@ -4,7 +4,7 @@
 
 - Resolver los problemas utilizando probabilidad y Python.
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱 Cómo iniciar este proyecto
 
 Sigue las siguientes instrucciones:
 
@@ -20,4 +20,4 @@ Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar 
 
 Una vez comiences a trabajar en el proyecto, verás un fichero `./notebook/problems.ipynb` que contiene una serie de ejercicios. Completa cada uno de ellos, uno por uno.
 
-Nota: También incorporamos muestras de solución en `./src/solutions.ipynb` que te sugerimos encarecidamente que solo uses si estás atascado por más de 30 minutos o si ya has terminado y quieres compararlo con tu enfoque.
+> Nota: También incorporamos muestras de solución en `./src/solutions.ipynb` que te sugerimos encarecidamente que solo uses si estás atascado por más de 30 minutos o si ya has terminado y quieres compararlo con tu enfoque.
