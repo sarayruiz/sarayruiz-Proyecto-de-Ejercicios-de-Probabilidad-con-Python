@@ -1,5 +1,7 @@
 # Probability Exercises Assignment
 
+[![Codespaces Prebuilds](https://github.com/4GeeksAcademy/gperdrizet-probability-exercises-project-in-python/actions/workflows/codespaces/create_codespaces_prebuilds/badge.svg)](https://github.com/4GeeksAcademy/gperdrizet-probability-exercises-project-in-python/actions/workflows/codespaces/create_codespaces_prebuilds)
+
 # ![Preview](assets/preview.jpeg)
 
 This assignment helps students understand probability by simulating random experiments and calculating empirical probabilities.
