@@ -91,24 +91,6 @@ This project explores fundamental probability concepts through **Monte Carlo sim
 
 ## Learning Objectives
 
-### Part 1: Probability Fundamentals
-- Understanding empirical vs theoretical probability
-- Sample spaces and favorable outcomes
-- Compound events and probability rules
-
-### Part 2: Monte Carlo Simulation
-- Random number generation in Python
-- Simulation design and implementation
-- Statistical convergence and accuracy
-
-### Part 3: Python Programming Skills
-- Loop structures for repeated experiments
-- Conditional logic for probability criteria
-- Data structures for tracking outcomes
-- Statistical calculations and reporting
-
-### Key Skills Developed
-
 1. **Statistical Thinking**: Design experiments to test probability hypotheses
 2. **Computational Problem Solving**: Translate probability problems into code
 3. **Data Analysis**: Interpret simulation results and compare with theory
